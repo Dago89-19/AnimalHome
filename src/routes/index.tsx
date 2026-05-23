@@ -9,7 +9,7 @@ function Home() {
       <p className="mt-4 text-lg">
         Edit <code>src/routes/index.tsx</code> to get started.
       </p>
-      <h1 className="mt-8 text-2xl font-bold">Diegto es gayt</h1>
+      <h1 className="mt-8 text-2xl font-bold">puto el que lo lea</h1>
     </div>
   );
 }
